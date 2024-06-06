@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "630128",
+      "name": "照相机",
+      "font_class": "zhaoxiangji",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "1236831",
+      "name": "相机",
+      "font_class": "05",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1314436",
+      "name": "照相机",
+      "font_class": "zhaoxiangji1",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "3861482",
+      "name": "照相机",
+      "font_class": "zhaoxiangji2",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "4770759",
+      "name": "照相机",
+      "font_class": "zhaoxiangji3",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "7587521",
+      "name": "20gl-camera2",
+      "font_class": "20gl-camera2",
+      "unicode": "e9e4",
+      "unicode_decimal": 59876
+    },
+    {
+      "icon_id": "7588019",
+      "name": "24gl-camera2",
+      "font_class": "24gl-camera2",
+      "unicode": "e9ed",
+      "unicode_decimal": 59885
+    },
+    {
+      "icon_id": "7794345",
+      "name": "照相机",
+      "font_class": "zhaoxiangji4",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "10635092",
+      "name": "照相机",
+      "font_class": "camera",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "34218775",
+      "name": "照相机",
+      "font_class": "zhaoxiangji5",
+      "unicode": "e875",
+      "unicode_decimal": 59509
+    }
+  ]
+}
